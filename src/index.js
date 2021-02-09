@@ -180,9 +180,7 @@ const ProductList = (props) => {
   return (
     <div
       style={{
-        padding: "10% 10%",
-        fontFamily: "Segoe ui",
-        backgroundColor: "#DEDADA"
+        padding: "5% 5%"
       }}
     >
       <div class="row">
